@@ -17,6 +17,7 @@
 
     <input type="text" id="val2" value="">
     <p>Результат: </p><input type="text" id="val3" value=""><br>
+    <p class="error"></p>
 </body>
 </html>
 
